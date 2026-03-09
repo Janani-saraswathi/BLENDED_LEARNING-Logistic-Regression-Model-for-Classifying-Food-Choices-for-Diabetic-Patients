@@ -85,7 +85,10 @@ plt.show()
 
 ## Output:
 <img width="581" height="460" alt="Screenshot 2026-03-09 101516" src="https://github.com/user-attachments/assets/93971288-15ef-4098-a30e-90de0b245d8c" />
+
 <img width="445" height="685" alt="Screenshot 2026-03-09 101527" src="https://github.com/user-attachments/assets/6bee122c-35c5-4511-8420-a54f5aa06b3f" />
+
+
 <img width="483" height="375" alt="Screenshot 2026-03-09 101543" src="https://github.com/user-attachments/assets/27e44496-c6f8-4a90-8347-eb33492ec5fb" />
 
 
